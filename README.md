@@ -1,6 +1,6 @@
 Continuous Integration Demo
 ============================
-[![Build Status](https://travis-ci.com/your_acctid/demo-pyci.svg?branch=master)](https://travis-ci.com/Champ2k/demo-pyci)
+[![Build Status](https://travis-ci.com/Champ2k/demo-pyci.svg?branch=master)](https://travis-ci.com/Champ2k/demo-pyci)
 
 
 This project demonstrates use of Travis CI to build and test a Python project.  
